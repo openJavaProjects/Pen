@@ -1,0 +1,78 @@
+----------------------------------------------Pen--------------------------------------------------------
+
+Pen v2.1 - Open Socure
+Developed by Shadow Technologies Software
+Since 2023
+
+------------------------------------------------------------
+Overview
+------------------------------------------------------------
+Pen v2.1 is a complete rewrite and improvement of the previous
+Pen 1.0.5 application. This version introduces a launcher,
+new tools, and usability fixes while keeping the project 100%
+pure Java and open-source.
+
+------------------------------------------------------------
+New Features
+------------------------------------------------------------
+1. Launcher menu:
+   - New Drawing
+   - Open Image
+   - Info screen
+
+2. Selector tool:
+   - Allows users to click and drag shapes with a hand-style cursor.
+
+3. Improved drawing engine:
+   - Rectangles and circles draw more precisely and align better.
+
+4. Exit protection:
+   - The program now warns the user if they attempt to exit
+     without saving their current drawing.
+
+5. Simplified interface:
+   - Cleaner toolbar and menu.
+   - Removed unnecessary messages and improved layout.
+
+------------------------------------------------------------
+Bug Fixes
+------------------------------------------------------------
+- Fixed occasional shape clipping on redraw.
+- Fixed improper brush rendering for different sizes.
+- Improved image import scaling.
+- Fixed undo operation behavior.
+- Removed unnecessary console output.
+
+------------------------------------------------------------
+Development Notes
+------------------------------------------------------------
+This project is written in JavaSE-9 using only standard libraries.
+All graphics, components, and logic are handled internally without
+external dependencies. The design continues the Shadow Technologies
+Software principles of open, secure, offline software.
+
+------------------------------------------------------------
+Future Ideas
+------------------------------------------------------------
+- Multi-shape selection and group move.
+- Shape resizing and rotation handles.
+- Layer system with visibility toggles.
+- Native save format (.pen) with metadata.
+- Integration with NotepadProject 2.0.
+
+------------------------------------------------------------
+Project Statement
+------------------------------------------------------------
+Pen is part of the Shadow Open Source Initiative.
+It demonstrates that creativity tools can remain private,
+transparent, and reliable without external dependencies.
+Pure Java. No telemetry. No hidden code. Open forever.
+
+
+-----------------------------------------------END--------------------------------------------------------
+
+(SOCURE NOT PUBLISHED YET)
+
+
+
+© Copyright Shadow Technologies Software SLU. 2023 - 2025
